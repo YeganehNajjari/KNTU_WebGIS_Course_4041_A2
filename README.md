@@ -19,15 +19,6 @@ The application allows users to:
 - **Nominatim (OpenStreetMap)** – Geocoding
 - **Open-Meteo** – Weather data
 
----
-
-## Project Structure
-├── index.html # Main HTML file
-├── style.css # Styling for map and UI
-├── script.js # OpenLayers initialization and API logic
-├── search.png # Screenshot of geocoding functionality
-├── weather.png # Screenshot of weather display
-└── README.md # Project documentation
 
 ---
 
