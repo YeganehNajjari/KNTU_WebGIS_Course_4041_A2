@@ -122,7 +122,7 @@ Displayed Weather Information:
 ## Screenshots
 
 ### Geocoding Search
-![Geocoding Search](Mapsearch.png)
+![Geocoding Search](MapSearch.png)
 
 ### Weather Information on Map Click
 ![Weather Information](weather.png)
